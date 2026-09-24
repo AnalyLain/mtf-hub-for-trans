@@ -21,5 +21,9 @@
 ## 沟通讨论
 我们欢迎任何友好的意见。若您有想法、需求或建议，可以在 [Issues](../../issues) 里面新建话题。
 
+## 贡献说明
+欢迎任何人通过 Fork + 分支 + PR 的方式参与项目贡献。
+仅在Issues留言讨论不会自动计入代码贡献者，提交代码PR并合并后，会自动出现在项目Contributors列表。
+
 ## License
 本项目使用 MIT License，详见 [LICENSE](./LICENSE) 文件
